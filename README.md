@@ -10,7 +10,7 @@ A new Flutter application.
 
 Code:[Exercise 1](https://flutter.dev/docs/cookbook/navigation/hero-animations)
 
-The direct link of this exercise: [Animate a widget across screens](https://flutter.dev/docs/cookbook/navigation/hero-animations)
+Lab: [Animate a widget across screens](https://flutter.dev/docs/cookbook/navigation/hero-animations)
 
 ###### main.dart
 ```dart
@@ -90,8 +90,6 @@ class DetailScreen extends StatelessWidget {
 ```
 
 ###### Result
-
-![](/screenshots/exercise1/Screenshot_4.png) ![](/screenshots/exercise1/Screenshot_5.png)
 
 ## 2. Navigate to a new screen and back
 
@@ -173,10 +171,6 @@ class SecondRoute extends StatelessWidget {
   }
 }
 ```
-
-###### Result
-
-![](/screenshots/exercise2/Screenshot_6.png) ![](/screenshots/exercise2/Screenshot_7.png)
 
 ## 3. Navigate with named routes
 
@@ -260,10 +254,6 @@ class SecondScreen extends StatelessWidget {
   }
 }
 ```
-
-###### Result
-
-![](/screenshots/exercise3/Screenshot_9.png) ![](/screenshots/exercise3/Screenshot_8.png)
 
 ## 4. Pass arguments to a named route
 
@@ -458,8 +448,6 @@ class ExtractArgumentsScreen extends StatelessWidget {
 
 ###### Result
 
-![](/screenshots/exercise4/Screenshot_8.png)![](/screenshots/exercise4/Screenshot_9.png) ![](/screenshots/exercise4/Screenshot_10.png)
-
 ## 5. Return data from a screen
 
 Code:[Exercise 5](https://github.com/sachgiaybut1102/-chapter4_x_report_1621050237_NgoCongMinh/tree/main/lib)
@@ -590,12 +578,8 @@ class SelectionScreen extends StatelessWidget {
 
 ###### Result
 
-![](/screenshots/exercise5/Screenshot_9.png)![](/screenshots/exercise5/Screenshot_10.png)
-
 
 ## 6. Send data to a new screen
-
-Code:[Exercise 6](https://github.com/KaseaKyra/flutter_lab_4_1/tree/main/lib/ui/view/exercise6)
 
 The direct link of this exercise: [Return data from a screen](https://flutter.dev/docs/cookbook/navigation/returning-data)
 
